@@ -1,5 +1,7 @@
 EmphAI (GreenLoop AI)
 Transforming Perishable Overstock into Sustainable Assets using AI
+
+
 📌 Overview
 
 EmphAI (GreenLoop AI) is an AI-driven, sustainability-focused platform designed to detect perishable overstock before expiry and intelligently redirect it into circular economy channels such as biofuel production, composting, or sustainable packaging.
